@@ -1,0 +1,1 @@
+{"format_version":"1.21.80","minecraft:item":{"description":{"identifier":"grishaverse:small_knife","menu_category":{"category":"equipment"}},"components":{"minecraft:icon":"small_knife","minecraft:max_stack_size":1,"minecraft:damage":4,"minecraft:hand_equipped":true,"minecraft:display_name":{"value":"Small Knife"}}}}

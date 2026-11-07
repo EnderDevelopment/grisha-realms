@@ -1,0 +1,1 @@
+{"format_version":"1.21.80","minecraft:item":{"description":{"identifier":"grishaverse:kefta_light_blue","menu_category":{"category":"equipment"}},"components":{"minecraft:icon":"kefta_light_blue","minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.chest"},"minecraft:display_name":{"value":"Squaller Kefta"}}}}
